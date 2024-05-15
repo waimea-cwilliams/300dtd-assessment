@@ -59,7 +59,7 @@ I will have to consider whether having a password for each end user is more effi
 -------------------------------------------------
 ## Relevant User Experience (UX) Principles
 
-### UX PRINCIPLE NAME HERE
+### Accessibility
 
 Replace this text with a clear explanation of what the UX design principle means.
 
