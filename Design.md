@@ -28,36 +28,35 @@ I intend to create a web app that will aim to allow coaching staff to know who w
 
 
 -------------------------------------------------
-
 ## Relevant Implications
 
-### IMPLICATION NAME HERE
+### Functionality
 
-Replace this text with a clear explanation of what the implication means.
+This implication means how effective is the state of the app, website or database. Does it do what the client asks of it? Do people know how to use it?
 
-Replace this text with an explanation of why the implication is relevant to this particular project.
+This implication will be relevant to this web app as it ensures that the user will be able to understand their way around the web app and how to use it. This is important as I don't want users to be confused as this should be an easy web app to navigate.
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
+I will need to consider the needs of my users and how they would like this web app to function therefore allowing them to be comfortable with the format. This will allow the user to understand where everything is on the web app and what it asks of them. I will also have to create an effective database with relevant tables to be able to keep data of the users that is appropriate to the web app.
 
-### IMPLICATION NAME HERE
+### Usability
 
-Replace this text with a clear explanation of what the implication means.
+The Usability relevant implication ensures that the webapp has user freedom, flexibility, potentially a real world match and error prevention or being able to recover from errors.
 
-Replace this text with an explanation of why the implication is relevant to this particular project.
+This implication is vital to my webapp it will be heavily used by my primary users who will have to constantly be using it to confirm attendance therefore things like error prevention and user freedom is key.
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
+To make this implication relevant to my webapp i need to consider the users point of view and need for the webapp by talking to my them so they are comfortable with understanding where to go on the webapp, and whether errors are causing big issues and aren't resolving them self.
 
-### IMPLICATION NAME HERE
+### Privacy
 
-Replace this text with a clear explanation of what the implication means.
+Ensure that the users data is stored somewhere secure. And allows the user to access/change their information when wanting too.
 
-Replace this text with an explanation of why the implication is relevant to this particular project.
+This implication is relevant towards my webapp as my users need to be able to change their attendance only and not tamper with anyone elses attendance.
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
+I will have to consider whether having a password for each end user is more efficient than a pin. To make this decision, I will have to have conversations with my end users on what they would prefer.
+
 
 
 -------------------------------------------------
-
 ## Relevant User Experience (UX) Principles
 
 ### UX PRINCIPLE NAME HERE
@@ -86,47 +85,63 @@ Replace this text with an explanation of what you will need to consider moving f
 
 
 -------------------------------------------------
+## Final System Design
 
-## Design, Development and Testing Log
+### Database Structure
 
-### DATE HERE
+Place a image here that shows the *final design* of your database: tables, fields and relationships.
 
-Replace this test with what you are working on
+### User Interface Design
 
-Replace this text with brief notes describing what you worked on, any decisions you made, any changes to designs, etc. Add screenshots / links to other media to illustrate your notes where necessary.
+Place images here that show your *final design* of your UI: layout, colours, etc.
 
-### DATE HERE
 
-Replace this test with what you are working on
+-------------------------------------------------
 
-Replace this text with brief notes describing what you worked on, any decisions you made, any changes to designs, etc. Add screenshots / links to other media to illustrate your notes where necessary.
+## Completed System
 
-### DATE HERE
+### Database Structure
 
-Replace this test with what you are working on
+Place a image here that shows the *actual database structure* that you implemented: tables, fields and relationships.
 
-Replace this text with brief notes describing what you worked on, any decisions you made, any changes to designs, etc. Add screenshots / links to other media to illustrate your notes where necessary.
+### User Interface Design
 
-### DATE HERE
+Place screenshots and notes here that show your *actual system UI* in action.
 
-Replace this test with what you are working on
 
-Replace this text with brief notes describing what you worked on, any decisions you made, any changes to designs, etc. Add screenshots / links to other media to illustrate your notes where necessary.
+-------------------------------------------------
 
-### DATE HERE
+## Review and Evaluation
 
-Replace this test with what you are working on
+### Meeting the Needs of the Users
 
-Replace this text with brief notes describing what you worked on, any decisions you made, any changes to designs, etc. Add screenshots / links to other media to illustrate your notes where necessary.
+Replace this text with a brief evaluation of how well you met the needs of your users. Look at what you initially wrote about who they are, what specific needs they have, etc. and discuss how well the system meets those needs.
 
-### DATE HERE
+### Meeting the System Requirements
 
-Replace this test with what you are working on
+Replace this text with a brief evaluation of how well you met the requirements that you defined at the start of the project, etc. Look back at the list of features / functionality you initially set and discuss how well your system has implemented each one.
 
-Replace this text with brief notes describing what you worked on, any decisions you made, any changes to designs, etc. Add screenshots / links to other media to illustrate your notes where necessary.
+### Review of IMPLICATION NAME HERE
 
-### DATE HERE
+Replace this text with brief notes showing how the implication was addressed in the final outcome. Accompany the notes with screenshots / other media to illustrate specific features.
 
-Replace this test with what you are working on
+### Review of IMPLICATION NAME HERE
 
-Replace this text with brief notes describing what you worked on, any decisions you made, any changes to designs, etc. Add screenshots / links to other media to illustrate your notes where necessary.
+Replace this text with brief notes showing how the implication was addressed in the final outcome. Accompany the notes with screenshots / other media to illustrate specific features.
+
+### Review of IMPLICATION NAME HERE
+
+Replace this text with brief notes showing how the implication was addressed in the final outcome. Accompany the notes with screenshots / other media to illustrate specific features.
+
+### Review of UX PRINCIPLE NAME HERE
+
+Replace this text with brief notes showing how the UX principle was addressed in the final outcome. Accompany the notes with screenshots / other media to illustrate specific features.
+
+### Review of UX PRINCIPLE NAME HERE
+
+Replace this text with brief notes showing how the UX principle was addressed in the final outcome. Accompany the notes with screenshots / other media to illustrate specific features.
+
+### Review of UX PRINCIPLE NAME HERE
+
+Replace this text with brief notes showing how the UX principle was addressed in the final outcome. Accompany the notes with screenshots / other media to illustrate specific features.
+
