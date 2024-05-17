@@ -61,27 +61,27 @@ I will have to consider whether having a password for each end user is more effi
 
 ### Accessibility
 
-Replace this text with a clear explanation of what the UX design principle means.
+Ensuring that a product or a service is accessible to and usable for as many people as possible. Also, understanding how different environments and situational factors might impact the user experience.
 
-Replace this text with an explanation of why the principle is relevant to this particular project.
+This is relevant to my project as my web app needs to be able to reach out to everyone involved with my Junior team this year otherwise I wont be able to hear from everyone about their attendance. It also needs to understand different time situations like what trainings and games are available for them to say they are present or not for.
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this principle.
+I will need to consider what is easier for my users for them to be able to get access to this webapp by talking to them about what device they are using. Also try and create a calendar feature on the web app that lets the players say present or not for about 2-3 weeks in the future.
 
-### UX PRINCIPLE NAME HERE
+### Consistency
 
-Replace this text with a clear explanation of what the UX design principle means.
+Consistency is creating products that solve specific user problems. This keeps the design consistent on how they look and how the design functions across all screens.
 
-Replace this text with an explanation of why the principle is relevant to this particular project.
+This UX principle is relevant towards my project as my web app needs to consistently functional across multiple different screens and devices as most of the people using this web app will be using mobile phones, whilst I will be using it through a laptop to see who has used it.
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this principle.
+I will need to consider the design of the webpage so it therefore allows the user to use different devices while the design stays consistent. To do this, I will need to console with my users to be able to understand a view that works for them.
 
-### UX PRINCIPLE NAME HERE
+### User-Freedom
 
-Replace this text with a clear explanation of what the UX design principle means.
+User Freedom allows users that makes mistakes, which happens often, exit or go back therefore allowing them to undo their last action so they can go back to the systems previous state.
 
-Replace this text with an explanation of why the principle is relevant to this particular project.
+This UX principle is very useful towards my web app as my users will need to be able to undo a action if they were to accidentally click the wrong button or if they wanted to change what they had selected for their attendance as maybe something came up.
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this principle.
+I will need to add a undo feature to this project therefore allowing the user to see the previous state of the webapp.
 
 
 -------------------------------------------------
