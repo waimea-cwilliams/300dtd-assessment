@@ -13,18 +13,27 @@ Assessment Standards: **91902** and **91903**
 
 ### Identified Need or Problem
 
-An issue that I have with coaching and other coaches that I am around have experienced is the uncertainty of the number of players that will be attending activity's such as:
-- Training
-- Games
-- Events
+Junior A basketball players have different priorities outside of basketball. This can make it difficult for them to be able to make it to trainings, or games etc. Therefore the coach may not know who will be coming to what training/game. This can then effect the plan from the coach as they may have certain aspects of trainings or games that require a certain amount of people. 
 
 ### End-User Requirements
 
-This webpage will be solely used by myself, management of the team I coach and most of all players are they are the ones liable for letting me know whether they will be available for upcoming activity's.
+The junior boys in this situation are the players. These boys are always busy with school and other sports outside of basketball. These users will want the system to be very straight forward and presentable to them so they are able to select their attendance for each session without trouble.
+
+The coach/manager will be able to access all of the players accounts, allowing them to view the attendance. This means the system will have to be simple for them to use. 
 
 ### Proposed Solution
 
-I intend to create a web app that will aim to allow coaching staff to know who will be attending what activity or wont be by also giving reasoning. 
+A webapp for the Waimea Junior A basketball team that allows the players to view each session that is upcoming and select whether they will be able to make it to said session or not which they are required to give reasoning for.
+
+The website will also allow the manager and coach to view each players attendance and add future sessions to the webapp allowing the Juniors to be able to focus on each new session.
+
+Players should be able to:
+- Identify themselves (via pin) 
+- Confirm attendance (with description)
+
+Coaches/Managers should be able to:
+- Add future sessions
+- View teams attendance
 
 
 -------------------------------------------------
@@ -46,13 +55,9 @@ This implication is vital to my webapp it will be heavily used by my primary use
 
 To make this implication relevant to my webapp i need to consider the users point of view and need for the webapp by talking to my them so they are comfortable with understanding where to go on the webapp, and whether errors are causing big issues and aren't resolving them self.
 
-### Privacy
+### 
 
-Ensure that the users data is stored somewhere secure. And allows the user to access/change their information when wanting too.
 
-This implication is relevant towards my webapp as my users need to be able to change their attendance only and not tamper with anyone elses attendance.
-
-I will have to consider whether having a password for each end user is more efficient than a pin. To make this decision, I will have to have conversations with my end users on what they would prefer.
 
 
 
