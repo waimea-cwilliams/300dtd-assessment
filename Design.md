@@ -41,7 +41,7 @@ Coaches/Managers should be able to:
 
 ### Functionality
 
-This implication means how effective is the state of the app, website or database. Does it do what the client asks of it? Do people know how to use it?
+The Functionality implication in a system relates to how well the design works based off the requirements of the end-user. The end-user should be talked to consistently for the webapp to be fully functional based on their terms.
 
 This implication will be relevant to this web app as it ensures that the user will be able to understand their way around the web app and how to use it. This is important as I don't want users to be confused as this should be an easy web app to navigate.
 
@@ -49,11 +49,11 @@ I will need to consider the needs of my users and how they would like this web a
 
 ### Usability
 
-The Usability relevant implication ensures that the webapp has user freedom, flexibility, potentially a real world match and error prevention or being able to recover from errors.
+The Usability implication in a system is how easy or difficult it may be for a user to access it. For example, usability can be studied through Nielsen's 10 Heuristics which contain things such as: Ensuring that the systems status is clear to the user, an easy understanding of the how the webapp works to the user, and keeping the webapp simple and straight forward.
 
-This implication is vital to my webapp it will be heavily used by my primary users who will have to constantly be using it to confirm attendance therefore things like error prevention and user freedom is key.
+I will need to make my system usable since my users are a mixture of younger aged and older aged citizens both apart of the same group having varying skill levels when it comes to webapp's therefore meaning my webapp needs to be simple and understandable to fit the needs of every user.
 
-To make this implication relevant to my webapp i need to consider the users point of view and need for the webapp by talking to my them so they are comfortable with understanding where to go on the webapp, and whether errors are causing big issues and aren't resolving them self.
+During the creation of my system, I will keep touch on the 10 Nielsen usability heuristics to ensure that the webapp is as usable as required. Resulting in a clean but appealing website that has everything in which is to be expected for the user. Users should easily be able to select attendance meaning I will in constant contact with my user to understand how to complete my design to their wants/needs.
 
 ### 
 
@@ -94,7 +94,7 @@ I will need to add a undo feature to this project therefore allowing the user to
 
 ### Database Structure
 
-Place a image here that shows the *final design* of your database: tables, fields and relationships.
+![Database](images/database.png)
 
 ### User Interface Design
 
