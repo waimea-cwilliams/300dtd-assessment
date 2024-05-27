@@ -43,9 +43,9 @@ Coaches/Managers should be able to:
 
 The Functionality implication in a system relates to how well the design works based off the requirements of the end-user. The end-user should be talked to consistently for the webapp to be fully functional based on their terms.
 
-This implication will be relevant to this web app as it ensures that the user will be able to understand their way around the web app and how to use it. This is important as I don't want users to be confused as this should be an easy web app to navigate.
+I will need to ensure that my webapp is functional for the players as it will be built for them to approve their attendance easily with a description, therefore meaning it will need to be understandable and work for them. It also needs to be functional for the coach/manager as the purpose of this webapp is to allow them to see their players attendance with ease and no problems occurring.
 
-I will need to consider the needs of my users and how they would like this web app to function therefore allowing them to be comfortable with the format. This will allow the user to understand where everything is on the web app and what it asks of them. I will also have to create an effective database with relevant tables to be able to keep data of the users that is appropriate to the web app.
+Throughout the build of my webapp, i will be consulting with my end-user consistently often, therefore allowing me to get a better understanding of how they want this system to work in favour of functionality. We will make several changes to such system to ensure it is functional at a level they are not just pleased but satisfied with.
 
 ### Usability
 
@@ -55,9 +55,13 @@ I will need to make my system usable since my users are a mixture of younger age
 
 During the creation of my system, I will keep touch on the 10 Nielsen usability heuristics to ensure that the webapp is as usable as required. Resulting in a clean but appealing website that has everything in which is to be expected for the user. Users should easily be able to select attendance meaning I will in constant contact with my user to understand how to complete my design to their wants/needs.
 
-### 
+### Aesthetic
 
+Aesthetic implication in terms of a system or digital outcome is how it appeals by looks and design to the end-user. The user should be comfortable, not triggered with how the webpage is coloured and designed (layout).
 
+To make my webapp aesthetically pleasing for my users, I will have to include both the players and the staff in my planning as this website needs to be satisfying for both party's in the way they will both be using them. For example, the color of the webapp will be mostly similar towards the different roles but things like the layout and certain other aspects of the webapp my be altered concerning whether it is a coach logged in to look at a attendance or a player logged in to change said attendance.
+
+To ensure that my system has the aesthetic most suitable for my end-users, I will make a constant effort to give as many different prototypes of layouts as they need. Then from there, use their feedback on those said prototypes to then create a design comfortable for both the coach/manager and the players.
 
 
 
