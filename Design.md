@@ -102,7 +102,8 @@ I will need to add a undo feature to this project therefore allowing the user to
 
 ### User Interface Design
 
-Place images here that show your *final design* of your UI: layout, colours, etc.
+![UserInterface](images/userInterface.png)
+![CoachUI](images/coachUI.png)
 
 
 -------------------------------------------------
