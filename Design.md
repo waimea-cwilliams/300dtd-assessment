@@ -99,11 +99,13 @@ I will need to add a undo feature to this project therefore allowing the user to
 ### Database Structure
 
 ![Database](images/database.png)
+This is the structure of my Database and shows what data I will be collecting from the end-user. The manager name will only be used for a staff member of the team.
 
 ### User Interface Design
 
 ![UserInterface](images/userInterface.png)
 ![CoachUI](images/coachUI.png)
+This is the User Interface of the Webpage. This shows the home page being the name of the players which anyone can click on. If clicked, it takes the user to an Upcoming Activities page which they then select a date for which activity they need to confirm their attendance for. The coaches login then directs coaches to a page where they are then able to view all the activities and which players are attending.
 
 
 -------------------------------------------------
