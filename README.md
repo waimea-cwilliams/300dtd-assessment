@@ -2,7 +2,7 @@
 
 This is my Team Attendance Tracker project for Digital Technologies
 
-![Logo](images/logo.jpg)
+![Logo](docs/images/logo.jpg)
 
 It is a database-driven web app that allows the user to:
 
@@ -14,5 +14,11 @@ It is a database-driven web app that allows the user to:
 
 The following documents support this project:
 
-- [Design & Review](Design.md)
-- [Development & Testing](Development.md)
+- [Design & Review](docs/Design.md)
+- [Development & Testing](docs/Development.md)
+
+## Accounts Details 
+
+The Account Details for the Logins in this project:
+- Admin - Username: Coach | Password: admin
+- Player - Username: Cooper5 | Password: secret
