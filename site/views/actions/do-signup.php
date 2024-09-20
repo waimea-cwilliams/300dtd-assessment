@@ -19,13 +19,10 @@ $stmt = $db ->prepare($query) ;
 $stmt->execute([$user]) ;
 $userData = $stmt ->fetch() ;
 
-#Hash The Password supplied
 $hash = password_hash($pass, PASSWORD_DEFAULT) ;
 
-// Connect to the DB
 consoleLog($userData) ;
 
-// Add the user account
 $query = 'INSERT INTO users (forename,surname,username,hash,player) VALUES(?, ?, ?, ?, ?)' ;
 $stmt = $db->prepare($query) ;
 $stmt->execute([$fore, $sur, $user, $hash, $play]) ;

@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Lebron</title>
+    <title>Team Attendance Tracker</title>
 
     <!-- Load favicon -->
     <link rel="icon" href="/images/favicon.svg">

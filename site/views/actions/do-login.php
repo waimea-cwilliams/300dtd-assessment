@@ -16,12 +16,9 @@ $userData = $stmt ->fetch();
 
 consoleLog($userData);
 
-// Did we actually get a user account?
 if ($userData) {
 
-    // Have an account, so check password
     if (password_verify($pass, $userData['hash'])) {
-        // We got here, so user and password both ok
         $_SESSION['user']['loggedIn'] = true ;
         $_SESSION['user']['username'] = $userData['username'] ;
         $_SESSION['user']['forename'] = $userData['forename'] ;
@@ -29,7 +26,6 @@ if ($userData) {
         $_SESSION['user']['admin'] = $userData['admin'] ;
         $_SESSION['user']['player'] = $userData['player'] ;
         $_SESSION['user']['id'] = $userData['id'] ;
-        // Head over to the home page
         header('HX-Redirect: ' . SITE_BASE . '/home');
     }
 

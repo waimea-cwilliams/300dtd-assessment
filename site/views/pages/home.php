@@ -1,4 +1,4 @@
-<?php 
+<?php
     global $isLoggedIn;    
 
 
@@ -6,19 +6,19 @@ consoleLog($_SESSION, 'Session Data');
 
 $isLoggedIn = $_SESSION['user']['loggedIn'] ?? false ;
 $isAdmin = $_SESSION['user']['admin']       ?? false ;
-$isPlayer = $_SESSION['user']['player']       ?? false ;
-$isAttending = $_SESSION['user']['player']       ?? false ;
+$isUser = $_SESSION['user']['user']       ?? false ;
+$isAttending = $_SESSION['user']['user']       ?? false ;
 
 if ($isLoggedIn) {
     $name = $_SESSION['user']['forename'];
     echo '<h1>Welcome, ' .$name . '</h1>';
-    if ($isAdmin && !$isPlayer){
+    if ($isAdmin && !$isUser){
         echo'<p>You are an Admin</p>' ;
-        echo '<a href="player"><input type ="submit" value="See all Players"</a>';
+        echo '<a href="player"><input type ="submit" value="See all Users"</a>';
         echo '<a href="event"><input type ="submit" value="See/Add Events"</a>';
     }
-
-        if ($isPlayer && !$isAdmin){
+    
+        if (!$isUser && !$isAdmin){
             require_once 'lib/db.php';
             $isLoggedIn = $_SESSION['user']['loggedIn'] ?? false ;
             $db = connectToDB();
@@ -66,7 +66,8 @@ if ($isLoggedIn) {
 }
 
     else {
-    
+
     }
 
 ?>
+
