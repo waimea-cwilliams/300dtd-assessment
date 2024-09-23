@@ -28,8 +28,8 @@ A webapp for the Waimea Junior A basketball team that allows the players to view
 The website will also allow the manager and coach to view each players attendance and add future sessions to the webapp allowing the Juniors to be able to focus on each new session.
 
 Players should be able to:
-- Identify themselves (via pin) 
-- Confirm attendance (with description)
+- Have a personal login
+- Confirm attendance 
 
 Coaches/Managers should be able to:
 - Add future sessions
@@ -127,15 +127,34 @@ Place screenshots and notes here that show your *actual system UI* in action.
 
 ### Meeting the Needs of the Users
 
-Replace this text with a brief evaluation of how well you met the needs of your users. Look at what you initially wrote about who they are, what specific needs they have, etc. and discuss how well the system meets those needs.
+At the beginning of my report I listed some things that would be in need of my users. These being:
+
+- Simplicity
+- Perception
+- Accessability for players and managers
+
+I think I was able to meet all of these requirements in my webpage. When logging in, the access to the website differs depending on admin/player accounts.
 
 ### Meeting the System Requirements
 
-Replace this text with a brief evaluation of how well you met the requirements that you defined at the start of the project, etc. Look back at the list of features / functionality you initially set and discuss how well your system has implemented each one.
+Overall I believe my webpage was able to meet all the needs of my users and the requirements I orginally stated, things like:
 
-### Review of IMPLICATION NAME HERE
+Players abilities:
+- Have a personal login
+- Confirm attendance 
 
-Replace this text with brief notes showing how the implication was addressed in the final outcome. Accompany the notes with screenshots / other media to illustrate specific features.
+Coaches/Managers abilities:
+- Add future sessions
+- View teams attendance
+
+### Review of Functionality
+
+In my final system, I was able to create a working UI for my clients. This working UI is consistent throughout the entire webpage.
+
+![ManagerHome](images/manager_home.png)
+![PlayerHome](images/player_home.png)
+
+
 
 ### Review of IMPLICATION NAME HERE
 
