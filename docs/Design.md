@@ -72,7 +72,7 @@ To ensure that my system has the aesthetic most suitable for my end-users, I wil
 
 Ensuring that a product or a service is accessible to and usable for as many people as possible. Also, understanding how different environments and situational factors might impact the user experience.
 
-This is relevant to my project as my web app needs to be able to reach out to everyone involved with my Junior team this year otherwise I wont be able to hear from everyone about their attendance. It also needs to understand different time situations like what trainings and games are available for them to say they are present or not for.
+This is relevant to my project as my web app needs to be able to reach out to everyone involved with my Junior team this year otherwise I wont be able to hear from everyone about their attendance. It also needs to understand different time situations like what trainings and games are available for them see.
 
 I will need to consider what is easier for my users for them to be able to get access to this webapp by talking to them about what device they are using. Also try and create a calendar feature on the web app that lets the players say present or not for about 2-3 weeks in the future.
 
@@ -114,11 +114,13 @@ This is the User Interface of the Webpage. This shows the home page being the na
 
 ### Database Structure
 
-Place a image here that shows the *actual database structure* that you implemented: tables, fields and relationships.
+![EventsTable](images/events_table.png)
+![UsersTable](images/users_table.png)
 
 ### User Interface Design
 
-Place screenshots and notes here that show your *actual system UI* in action.
+![ManagerHome](images/manager_home.png)
+![PlayerList](images/player_list.png)
 
 
 -------------------------------------------------
@@ -164,19 +166,37 @@ The usablilty in this webpage meet the standard I had made myself at the beginni
 
 As shown in this photo, all of the webpages that the user needs are available to click and find off these links. This Nav bar is for the admin accounts such as Managers or Coaches, all of which are visable and easy to understand where they lead to. As related to Nielsens 10 Usability Heuristics this webpage is visable, user control/freedom, consistency and the others. The users are still able to go back to the home page at any time just by pressing the home page button on the nav, or pressing the header on the left side of the nav, which will take them to the welcoming page, involving the photo of the team.
 
-### Review of IMPLICATION NAME HERE
+### Review of Aesthetic
 
-Replace this text with brief notes showing how the implication was addressed in the final outcome. Accompany the notes with screenshots / other media to illustrate specific features.
+As spoken about earlier in this report. Aesthetics are important to this project as layouts, colours and the pages need to be easy for the users to use. 
 
-### Review of UX PRINCIPLE NAME HERE
+![PlayerList](images/player_list.png)
 
-Replace this text with brief notes showing how the UX principle was addressed in the final outcome. Accompany the notes with screenshots / other media to illustrate specific features.
+In the image shown above, you can see that the layout and the colours fit well with each other. This is the player-list that only the admins are able to view, to make it easier on the managers and coaches to be able to see every option that is avaliable to them. For example, the delete-user button, the viewing of attendance and the player/manager buttons are all easily visible on the screen and in a  nice labled, spaced table.
 
-### Review of UX PRINCIPLE NAME HERE
+### Review of Accessability
 
-Replace this text with brief notes showing how the UX principle was addressed in the final outcome. Accompany the notes with screenshots / other media to illustrate specific features.
+The biggest aim of this webpage was for it to be accessable to all of the users. Being the admins and the players. I believe that I was able to make this final design as required for all of the clients.
 
-### Review of UX PRINCIPLE NAME HERE
+In the nav explanation and the photos/video of the UI, we can see that the all of the pages are accessable to those accounts that are allowed to view them. In the end, all of the players and managers in this junior team are able to have their own accounts based on the admins wants.
 
-Replace this text with brief notes showing how the UX principle was addressed in the final outcome. Accompany the notes with screenshots / other media to illustrate specific features.
+### Review of Consistency
+
+Consistency plays a big part in this webpage as it assists other features such as aesthetics. 
+
+![PlayerList](images/player_list.png)
+![ManagerHome](images/manager_home.png)
+![AddEvents](images/add_events.png)
+
+As seen in these photos, all of these pages are similar in layout, therefore making it easier for the users to navigate, understand, and less confused while using it.
+
+### Review of User-Freedom
+
+User Freedom is important to this webpage as the users need to be able to go back and delete something if they dont like what they added or change what they just did. Also making sure that they are able to find their way back and the webpage lets them know if they make a mistake.
+
+![DeleteUser](images/delete_user.png)
+![UserAccount](images/user_account.png)
+
+When trying to login in with an account that the webpage does not recognize, it lets the user know that the account does not exist in that database. For more of the user-freedom side of things, if adding a player as an admin, you are then able to delete the user but only as admin, players are not able to view this page and make that change.
+
 
