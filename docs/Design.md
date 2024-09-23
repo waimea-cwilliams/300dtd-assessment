@@ -154,11 +154,15 @@ In my final system, I was able to create a working UI for my clients. This worki
 ![ManagerHome](images/manager_home.png)
 ![PlayerHome](images/player_home.png)
 
+Both of these images show the that when the users login, they are presented with the options that they are allowed to have as either manager or player. These are shown in the navigation above. The screens that are above also show that these are the pages presented to the users as soon as they login, the login button sends them straight to these pages. 
 
+### Review of Usability
 
-### Review of IMPLICATION NAME HERE
+The usablilty in this webpage meet the standard I had made myself at the beginning on this report.
 
-Replace this text with brief notes showing how the implication was addressed in the final outcome. Accompany the notes with screenshots / other media to illustrate specific features.
+![NavBar](images/nav.png)
+
+As shown in this photo, all of the webpages that the user needs are available to click and find off these links. This Nav bar is for the admin accounts such as Managers or Coaches, all of which are visable and easy to understand where they lead to. As related to Nielsens 10 Usability Heuristics this webpage is visable, user control/freedom, consistency and the others. The users are still able to go back to the home page at any time just by pressing the home page button on the nav, or pressing the header on the left side of the nav, which will take them to the welcoming page, involving the photo of the team.
 
 ### Review of IMPLICATION NAME HERE
 
